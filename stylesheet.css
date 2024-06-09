@@ -1,0 +1,16 @@
+li {
+    margin-bottom: 15px;
+    text-align: justify;
+}
+p {
+    text-align:justify;
+}
+h1 {
+    text-align:center;
+    font-size:50px;
+    margin-bottom:auto;
+}
+body {
+    background-color:rgb(29, 28, 28);
+    color:rgb(221, 221, 221)
+}
