@@ -22,5 +22,37 @@ a {
 	color:#7FFFD4;
     }
 body {
-
+	display:grid;
+    grid-template-rows: 1fr 1fr 1fr 1fr 1fr 1fr 1fr ;
+    grid-template-columns: 1fr 1fr 1fr 1fr 1fr 1fr 1fr;
 }
+header {
+	grid-row: 1;
+    grid-column-start: 3;
+    grid-column-end: 6;
+    }
+nav {
+    grid-row: 2;
+    grid-column-start: 1;
+    grid-column-end: 8;
+}
+main {
+	grid-row-start: 3;
+    grid-row-end: 8;
+    grid-column-start: 2;
+    grid-column-end: 7;
+}
+
+    
+    
+    
+    
+    
+    
+    
+    
+    
+    
+    
+    
+    
