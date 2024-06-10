@@ -1,18 +1,22 @@
 li {
     margin-bottom: 15px;
     text-align: justify;
+    font-family:sans-serif;
 }
 p {
     text-align:justify;
+    font-family:sans-serif;
 }
 h1 {
     text-align:center;
     font-size:50px;
     margin-bottom:auto;
+    font-family:sans-serif;
 }
 body {
     background-color:rgb(29, 28, 28);
     color:rgb(221, 221, 221)
+    font-family:sans-serif;
 }
 a {
 	color:#7FFFD4;
