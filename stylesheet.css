@@ -17,3 +17,6 @@ body {
 a {
 	color:#7FFFD4;
     }
+body {
+    	background:url("http://www.destadesign.com/destacms/images/background_border_left.png") left repeat-y,url("http://www.destadesign.com/destacms/images/background_border_right.png") right repeat-y;
+}
